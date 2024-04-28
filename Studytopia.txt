@@ -1,0 +1,612 @@
+<!-HOMEPAGE->
+
+<html>
+<head>
+<title></title>
+</head>
+<body bgcolor="#ffccff">
+<center><table background="white.jpg" height=100 width=100% border=1 cellpadding=10>
+<tr><td align="center" width=150><img src="study topia home page (1).jpg" height=150 width=150></td>
+<td align="right" valign="middle"><font face="trebuchet ms" color="maroon"
+size=7><b><i>STUDYTOPIA!</i></b></font></td></tr></table></center><br>
+<table width = 100% height=20 cellpadding = 10><tr><td width = 100% bgcolor =
+“maroon”><font face = "trebuchet ms" color = "white" size = 6 valign = "middle" ><p>
+<align = “center”> Stop stressing, Keep studying!!! </font></td>
+<table width = 100% height=5 cellpadding = 10><tr><td width = 100% bgcolor =
+"#ffffcc"><font face = "trebuchet ms" color = "Maroon" size = 4 valign = "middle"><b>
+<center>
+<ol>
+<b><li><a href="cpt 2.html">STUDY HACKS</a> </li> <br>
+<li><a href="cpt 3.html">FEELING UNMOTIVATED? Click Here(QUOTES)</a></li> <br>
+<li><a href="cpt 4.html">FOOD TO BOOST YOUR STUDY TIME</a></b></font></li> <br>
+<li><a href="cpt 5.html"> STRESSED? Click here.</a> </li> <br>
+<li><a href="cpt 6-feedback.html"> IN NEED OF SOME EXAM PREPARATION TIPS? Click here</a> </li> <br>
+<li><a href="cpt 7 about us.html"> ABOUT US (Click Here)</a> </li> <br></b>
+</center>
+</td></tr></table><table bgcolor="#ffffcc">
+<tr border=2 bordercolor=”black”><td height=50 valign=”top”><br><center>
+<img src = "study topia home page (1).jpg" height = 300 width = 300>
+
+<img src="study topia home page (2).jpg" height=300 width=300>
+<img src="study topia home page (4).jpg" height=300 width=300 ></td></center></tr>
+<br><hr>
+<br><tr><td><hr>
+<font face = "calibri" color = "tomato" size = 5>A LETTER FROM THE CREATORS: <br><br>
+<font face = "calibri" color = "black" size = 5>Studying.<br><br>
+The boring bit of a student's life, isn't it?<br>
+Studying is so powerful that it can make the insomniac fall asleep! Yet, many of us hate performing the job. We know the benefits of studying. It helps us score good marks, it helps us get a good job, it helps us build a good reputation and what not! However, is studying only about all of that? Fame, reputation and job? Absolutely not! Studying is indeed about learning. It is about knowing the world around us. Embracing th talents and the values that the different subjects have to teach us.<br>
+Studytopia brings at your feet everything you need to study effectively and prove yourself to yourself at academics. Feeling unmotivated to study? We have quotes to fuel your mind with determination and positivity. Feeling stressed about exams and need tips? Don't worry, we've got you back! Get hungry while you study, Wehave healthy options that wull boost yout studying! There are tons of study hacks in store as well to hlp you when you get stuck! In this journey of studying, our website is a complte package of fun, ideas and help! WELCOME TO THE STUDYTOPIA!.</font>
+</td></tr>
+</table>
+<br><hr><hr>
+</body>
+</html>
+
+
+<!-STUDY HACKS->
+
+<html>
+<head>
+<title></title>
+</head>
+<body link = “blue” vlink = “purple” alink = “blue” background=”i.jpg”>
+<table height = 200 width = 100% background=”g.jpg” cellpadding = 60><tr><td width=35%
+height=100></td><td width = 90% height = 100 valign = “middle”>
+<font face = “trebuchet ms” color = “maroon” size = 7><center><i>STUDY HACKS!!!</i></font></td></tr></table></center>
+<br>
+<hr>
+<br>
+<table width = 100%>
+<tr>
+<td width = 50%>
+<align = “left”>
+
+<img src = "study-motivation-hacks.jpg" height = 100% width = 100% border = 3></td>
+
+<td width = 50%>
+<font face = “calibri” color = “white” size = 5><b><align = “right”>
+
+Studying doesn't have to be hard. In fact, there are plenty of simple methods that exist that simplify the entire process.
+
+It's true: not all methods work for every person, but, with a little bit of trial-and-error, you can find the methods that work for you and stick with them like your life depends on it. Or, at least, like your grades do.
+
+While nothing replaces good old fashioned hard work, every little bit helps when it comes to increasing your efficiency in college (because we know it can be overwhelming at times).
+
+The following study hacks make student life simpler by helping to increase productivity levels, boost focus, help concentration and eliminate distractions.
+<BR>
+<BR>
+<h3 style="color:Tomato;">1. Put on instrumental music or ambient sounds while you study</h3> 
+You can try A Soft Murmur, Coffitivity, or Rainy Mood for some calming sounds that will keep your focus razor-sharp.
+<BR>
+<BR>
+ <h3 style="color:orange;">2.Or even better: recorded lectures</H3>
+You can skip over the boring parts or play it in double-time to save time.
+<BR>
+<BR>
+ <h3 style="color:dodgerblue;">3.Get rid of distractions using a blocker app</H3>
+It’s much too easy to fall into a time-sucking black hole filled with cat videos and memes, and for that, there are some great apps that will restrict access to websites and apps for a specific amount of time, be it on your computer, tablet, or mobile phone. For Mac users, there’s SelfControl, and for Windows users, there’s Cold Turkey.
+<BR>
+<BR>
+ <h3 style="color:mediumseagreen;">4.Pace yourself</H3>
+It can seem a bit intimidating if you feel you’ve got a lot to revise, so study small sections at a time – take a brief five-minute break after finishing one section before tackling the next.
+<BR>
+<BR>
+<h3 style="color:gray;">5.Figure out your ‘zone’</H3>
+Some students are morning larks, while others are night owls. Some can focus better with white noise in the background, while others prefer complete silence. Try different studying techniques and times to suss out which are the most effective for you.
+<BR>
+<BR>
+ <h3 style="color:slateblue;">6.Beware the ‘Forgetting Curve’</H3>
+According to Ebbinghaus’ “Forgetting Curve“, information is lost over time when there is no attempt to reinforce it. So while studying, be sure to review what you’ve just learned every 20 minutes to help it stick.
+<BR>
+<BR>
+<h3 style="color:violet;">7.Write it out</H3>
+Studies show that writing out your revision notes by hand will help you absorb and retain the information better.
+<BR>
+<BR>
+<h3 style="color:rgb(51, 255, 51);">8.Get creative with your notes</H3> 
+If you’ve got an artistic knack, feel free to let loose with your notes! It’s often easier to recall information if they’re presented in a variety of colors or using illustrations. Even if you don’t think you’re that arty, using different colored pens and highlighters and arranging important points into a mind map helps!
+<BR>
+<BR>
+<h3 style="color:Tomato;">9.Jog your memory with flash cards</H3>
+
+True and tested, flash cards can help you retain vital information. You can also try out an online interactive flash card site, such as Quizlet, which has tons of study sets. According to the site, more than 95 percent of students who learn with Quizlet improved their grades.
+<BR>
+<BR>
+<h3 style="color:orange;">10.Pop some candy to stay alert</H3>
+If you find your mind wandering or nodding off, chewing gum or sucking on candy while studying is said to help boost concentration and keep you awake.
+<BR>
+<BR>
+<h3 style="color:dodgerblue;">11.Do practice tests</H3>
+You know what they say: practice makes perfect! You can Google “site:edu [subject] exam” to find various college exams featuring questions about any particular subject.
+<BR>
+<BR>
+<h3 style="color:mediumseagreen;">12.Don’t neglect your beauty sleep</H3>
+Be sure to get enough sleep before your paper so you won’t fall asleep halfway through!
+<BR>
+<BR>
+<h3 style="color:gray;">13.Grab a quick breakfast beforehand</H3>
+You won’t do as well on your exam on an empty stomach, as your mind will likely wander towards food-related fantasies, so be sure to eat something light in the morning, like cereal or fruit. A heavy, greasy breakfast will probably make you sleepy. And don’t forget to drink a glass of water so your body is properly hydrated! According to studies, those who drink water before a test tend to think quicker and perform better than those who didn’t.
+<BR>
+<BR>
+<h3 style="color:slateblue;">14. Get to your exam venue early</H3>
+Be sure to get to the venue as early as possible so you’re calm and in the right frame of mind to take your exam, rather than being frazzled and stressed out. Before you head in, you can try jotting down just the main points to ensure you’ve got it down pat. (But be sure to leave it outside the exam hall!)
+<BR>
+<BR>
+With these useful hacks, we’re sure you’ll pass with flying colors. You got this! Good luck!
+.</b>
+</font></td></tr>
+</table>
+<br>
+<BR>
+<hr><p align=”center”><font face = “trebuchet ms” size = 2 color = “black”>
+Home | Privacy Policy | Terms of Service | Feedback <br>
+2019| STUDYTOPIA | All Rights Reserved
+<p align =”center”><font face=”monotype corsiva size=4”>
+</font><br>
+<font face=”trebuchet ms” size=3><a href=”Main.htm”><b>Click to Go Back!!!</b></
+a></font>
+</body>
+</html>
+
+
+<!-MOTIVATIONAL QUOTES->
+
+<html>
+<head>
+<title></title>
+</head>
+<body link = “blue” vlink = “purple” alink = “blue” background=”i.jpg”>
+<table height = 200 width = 100% background="I.jpg" cellpadding = 10><tr><td width=35%
+height=100></td><td width = 100% height = 100 valign = “middle”>
+<font face = “trebuchet ms” color = “yellow” size = 7><p align = “center”><i>QUOTES TO BOOST YOUR MOOD AND HELP YOU STUDY EFFECTIVELY!!!</i></font></td></tr></table>
+<br>
+<hr>
+<br>
+<table width = 100%>
+<tr>
+<td width = 50%>
+<align = “left”>
+
+<img src = "study hacks2.jpg" height = 350 width = 450 border = 3></td>
+<td width = 100%>
+<font face = “algerian” color = “white” size = 5><b><align = “right”>
+
+</b>
+</td></tr>
+</table>
+<br>
+<font face = “calibri” color = “white” size = 5><b><align = “right”>
+Do you sometimes struggle with a lack of motivation?
+You’re supposed to be studying for next week’s test. But instead you end up texting your friends, watching YouTube videos, or playing games.
+After procrastinating for an hour or more, you finally get to work.
+But you just don’t feel that motivated.
+Does this sound familiar?
+Developing long-term motivation is a complicated issue.
+But you can stay motivated in the short term by reading inspirational quotes.
+So we’ve compiled this list of 40 powerful quotes to help you study hard for your next test or exam.
+<font face = “calibri” color = “white” size = 5><b><align = “right”>
+The quotes are listed below according to the following categories:
+<br>
+<ul>
+<li><h3 style="color:tomato;">Believing in yourself</h></li>
+<li><h3 style="color:orange;">Cultivating a success mindset</li></h>
+<li><h3 style="color:dodgerblue;">Overcoming procrastination</li></h>
+<li><h3 style="color:mediumseagreen;">Hard work</li></h>
+<li><h3 style="color:violet;">Not making excuses</li></h>
+<li><h3 style="color:rgb(153, 0, 77);">Perseverance</li></h>
+<br>
+<h3 style="color:tomato;">Believing in yourself</h3>
+1. Believe you can and you’re halfway there.
+<br>
+<br>
+2. You have to expect things of yourself before you can do them.
+<br>
+<br>
+3. It always seems impossible until it’s done.
+<br>
+<br>
+4. Don’t let what you cannot do interfere with what you can do. – John Wooden
+<br>
+<br>
+</h>
+<h3 style="color:orange;">Cultivating a success mindset</h3>
+5. Start where you are. Use what you have. Do what you can. – Arthur Ashe
+<br>
+<br>
+6. Successful and unsuccessful people do not vary greatly in their abilities. They vary in their desires to reach their potential. – John Maxwell
+<br>
+<br>
+7. The secret of success is to do the common things uncommonly well. – John D. Rockefeller
+<br>
+<br>
+8. Good things come to people who wait, but better things come to those who go out and get them.
+<br>
+<br>
+9. Strive for progress, not perfection.
+<br>
+<br>
+10. I find that the harder I work, the more luck I seem to have. – Thomas Jefferson
+<br>
+<br>
+11. Success is the sum of small efforts, repeated day in and day out. – Robert Collier
+<br>
+<br>
+12. Don’t wish it were easier; wish you were better. – Jim Rohn
+<br>
+<br>
+13. I don’t regret the things I’ve done. I regret the things I didn’t do when I had the chance.
+<br>
+<br>
+14. There are two kinds of people in this world: those who want to get things done and those who don’t want to make mistakes. – John Maxwell
+<br>
+</h3>
+<h3 style="color:dodgerblue;">Overcoming procrastination</h3>
+15. The secret to getting ahead is getting started.
+<br>
+<br>
+16. You don’t have to be great to start, but you have to start to be great.
+<br>
+<br>
+17. The expert in everything was once a beginner.
+<br>
+<br>
+<h3 style="color:mediumseagreen;">Hard work</h3>
+18. There are no shortcuts to any place worth going. – Beverly Sills
+<br>
+<br>
+19. Push yourself, because no one else is going to do it for you.
+<br>
+<br>
+20. Some people dream of accomplishing great things. Others stay awake and make it happen.
+<br>
+<br>
+21. There is no substitute for hard work. – Thomas Edison
+<br>
+<br>
+22. The difference between ordinary and extraordinary is that little “extra.”
+<br>
+<br>
+23. You don’t always get what you wish for; you get what you work for.
+<br>
+<br>
+24. It’s not about how bad you want it. It’s about how hard you’re willing to work for it.
+<br>
+<br>
+25. The only place where success comes before work is in the dictionary. – Vidal Sassoon
+<br>
+<br>
+26. There are no traffic jams on the extra mile. – Zig Ziglar
+<br>
+<br>
+27. If people only knew how hard I’ve worked to gain my mastery, it wouldn’t seem so wonderful at all. – Michelangelo
+<br>
+<br>
+<h3 style="color:violet;">Not making excuses</h3>
+28. If it’s important to you, you’ll find a way. If not, you’ll find an excuse.
+<br>
+<br>
+29. Don’t say you don’t have enough time. You have exactly the same number of hours per day that were given to Helen Keller, Pasteur, Michelangelo, Mother Teresea, Leonardo da Vinci, Thomas Jefferson, and Albert Einstein. – H. Jackson Brown Jr.
+<br>
+<br>
+<h3 style="color:rgb(153, 0, 77);">Perseverance</h3>
+30. Challenges are what make life interesting. Overcoming them is what makes life meaningful. – Joshua J. Marine
+<br>
+<br>
+31. Life has two rules: 1) Never quit. 2) Always remember Rule #1.
+<br>
+<br>
+32. I’ve failed over and over and over again in my life. And that is why I succeed. – Michael Jordan
+<br>
+<br>
+33. I don’t measure a man’s success by how high he climbs, but how high he bounces when he hits the bottom. – George S. Patton
+<br>
+<br>
+34. If you’re going through hell, keep going. – Winston Churchill
+<br>
+<br>
+35. Don’t let your victories go to your head, or your failures go to your heart.
+<br>
+<br>
+36. Failure is the opportunity to begin again more intelligently. – Henry Ford
+<br>
+<br>
+37. You don’t drown by falling in the water; you drown by staying there. – Ed Cole
+<br>
+<br>
+38. The difference between a stumbling block and a stepping-stone is how high you raise your foot.
+<br>
+<br>
+39. The pain you feel today is the strength you will feel tomorrow. For every challenge encountered there is opportunity for growth.
+<br>
+<br>
+40. It’s not going to be easy, but it’s going to be worth it.
+<br>
+<br>
+<hr><p align=”center”><font face = “trebuchet ms” size = 2 color = “black”>
+Home | Privacy Policy | Terms of Service | Feedback <br>
+2019| STUDYTOPIA| All Rights Reserved
+</font><br><br>
+<font face=”trebuchet ms” size=3><a href=”Main.htm”><b>Click to Go Back!!!</b></
+a></font>
+</body>
+</html>
+FOOD TO BOOST YOUR STUDY TIME
+<html>
+<head>
+<title></title>
+</head>
+<body link = “blue” vlink = “purple” alink = “blue” background=”i.jpg”>
+<table height = 200 width = 100% background=”g.jpg” cellpadding = 60><tr><td width=35%
+height=100></td><td width = 90% height = 100 valign = “middle”>
+<font face = “trebuchet ms” color = “maroon” size = 7><center><i>FOOD TO HELP BOOST YOUR STUDYING EFFICIENCY</i></font></td></tr></table></center>
+<br>
+<hr>
+<br>
+<table width = 100%>
+<tr>
+<td width = 50%>
+<align = "left">
+
+<img src = "nutrition vegetables.jpg" height = 350 width = 450 border = 3></td>
+
+<td width = 50%>
+
+<font face = “calibri” color = “white” size = 5><b><align = “right”>
+Just as there is no magic pill to prevent cognitive decline, no single almighty brain food can ensure a sharp brain as you age. Nutritionists emphasize that the most important strategy is to follow a healthy dietary pattern that includes a lot of fruits, vegetables, legumes, and whole grains. Try to get protein from plant sources and fish and choose healthy fats, such as olive oil or canola, rather than saturated fats.
+
+That said, certain foods in this overall scheme are particularly rich in healthful components like omega-3 fatty acids, B vitamins, and antioxidants, which are known to support brain health and often referred to as foods. Incorporating many of these foods into a healthy diet on a regular basis can improve the health of your brain, which could translate into better mental function.
+
+Research shows that the best brain foods are the same ones that protect your heart and blood vessels, including the following:
+<BR>
+<h3 style="color:tomato">GREEN LEAFY VEGETABLES</h3>
+ Leafy greens such as kale, spinach, collards, and broccoli are rich in brain-healthy nutrients like vitamin K, lutein, folate, and beta carotene. Research suggests these plant-based foods may help slow cognitive decline.
+<BR>
+<h3 style="color:ORANGE">FATTY FISH</h3>
+Fatty fish are abundant sources of omega-3 fatty acids, healthy unsaturated fats that have been linked to lower blood levels of beta-amyloid—the protein that forms damaging clumps in the brains of people with Alzheimer's disease. Try to eat fish at least twice a week, but choose varieties that are low in mercury, such as salmon, cod, canned light tuna, and pollack. If you're not a fan of fish, ask your doctor about taking an omega-3 supplement, or choose terrestrial omega-3 sources such as flaxseeds, avocados, and walnuts.
+<BR>
+<h3 style="color:dodgerblue">BERRIES</h3>
+ Flavonoids, the natural plant pigments that give berries their brilliant hues, also help improve memory, research shows. In a 2012 study published in Annals of Neurology, researchers at Harvard's Brigham and Women's Hospital found that women who consumed two or more servings of strawberries and blueberries each week delayed memory decline by up to two-and-a-half years.
+<BR>
+<h3 style="color:MEDIUMSEAGREEN">TEA AND COFFEE</h3>
+The caffeine in your morning cup of coffee or tea might offer more than just a short-term concentration boost. In a 2014 study published in The Journal of Nutrition, participants with higher caffeine consumption scored better on tests of mental function. Caffeine might also help solidify new memories, according to other research. Investigators at Johns Hopkins University asked participants to study a series of images and then take either a placebo or a 200-milligram caffeine tablet. More members of the caffeine group were able to correctly identify the images on the following day.
+<BR>
+<h3 style="color:VIOLET">WALNUTS</h3>
+Nuts are excellent sources of protein and healthy fats, and one type of nut in particular might also improve memory. A 2015 study from UCLA linked higher walnut consumption to improved cognitive test scores. Walnuts are high in a type of omega-3 fatty acid called alpha-linolenic acid (ALA), which helps lower blood pressure and protects arteries. That's good for both the heart and brain.
+</b>
+</font></td></tr>
+</table>
+<br>
+<hr><p align="center"><font face = "trebuchet ms" size = 4.5 color = "black">
+Home | Privacy Policy | Terms of Service | Feedback <br>
+2019| STUDYTOPIA | All Rights Reserved
+<p align ="center"><font face="monotype corsiva" size=4>
+</font><br>
+<font face=”trebuchet ms” size=3><a href="CPT 1.html"><b>Click to Go Back!!!</b></
+a></font>
+</body>
+</html>
+
+
+<!-EXAM PREPARATION TIPS->
+
+<html>
+<head>
+<title></title>
+</head>
+<body link = “blue” vlink = “purple” alink = “blue” background="i.jpg">
+<table height = 200 width = 100% background=”g.jpg” cellpadding = 60><tr><td width=35%
+height=100></td><td width = 90% height = 100 valign = “middle”>
+<font face = “trebuchet ms” color = “maroon” size = 7><center><i>EXAM PREPARATION TIPS!!!</i></font></td></tr></table></center>
+<br>
+<hr>
+<br>
+<table width = 100%>
+<tr>
+<td width = 50%>
+<align = “left”>
+
+<img src = "bg (1).jpg" height = 350 width = 450 border = 3></td>
+
+<td width = 50%>
+<font face = “calibri” color = “white” size = 5><b><align = “right”>
+
+
+Studying and preparing is vital to success in exams.
+
+It is, however, difficult to know how best to manage your preparation period until you have some experience.
+
+This page therefore offers some ideas, based on experience and expert opinion, to help those still quite new to exams.
+
+Some of these tips sound like ‘common sense’, and relate to the importance of looking after yourself. Others are more about how you do your studying.
+
+Both types are important, and will help you to both study better, and perform better in the exam. Below are some exam preparation tips:
+<br>
+<h3 style="color:tomato">1. Start your revision early</h3>
+There is no substitute for starting early with revision.
+You need to give yourself enough time to review everything that you have studied, and make sure that you understand it (or to read round the subject or ask for help if you are struggling). Last minute cramming is much less productive.
+Ideally, review each subject as you go, and make sure that you understand it fully as this will make revision much easier. Ultimately, the best tip is to study hard and know your subject, and starting early is the best way to achieve this.
+<br>
+<h3 style="color:orange">2. Organise your study time</h3>
+You will almost certainly find some subjects easier than others. You will also find that you have more to revise for some subjects than others.
+
+It is worth taking the time to plan your revision and consider how much time you might need for each subject.
+
+It is also helpful to consider when and how long you plan to spend studying each day. How much time will you be able to manage each day? What other commitments do you have during your study period?
+
+Plan your revision to ensure that you use your time to best advantage. When is the best time of day for you—morning, afternoon or evening? Can you do more reading at particular times? This will help you to plan broadly what you intend to do, although you should always make sure that you leave it flexible enough to adapt later if circumstances change.
+
+There is more about this in our pages of Top Tips for Studying and on Getting Organised to Study.
+<br>
+<h3 style="color:dodgerblue">3. Look after yourself during study and exam time</h3>
+You will be able to work better if you eat a healthy diet, and get plenty of sleep.
+
+This applies both during your exam period, and when you are revising. Surviving on junk food is not a good idea. For more about the importance of diet and sleep, see our pages on Food, Diet, and Nutrition and The Importance of Sleep.
+
+It is also a good idea to take regular exercise when studying. A brisk walk, or more vigorous exercise, will get your blood moving and ensure that you are better able to concentrate. There is more about this in our page on The Importance of Exercise.
+<br>
+<h3 style="color:mediumseagreen">4. Vary your revision techniques</h3>
+They say that variety is the spice of life, and it certainly helps to improve your studying.
+Always doing the same thing, for example, reading over your notes on a subject, is likely to be quite dull. Spice up your revision period by trying different exercises and techniques. Alternatives to reading your notes over include:
+Doing practice papers and questions to test your understanding (your teachers or tutors will probably be very happy to mark these for you if you ask them nicely);
+Drawing mind maps or other summary diagrams to test what you can remember, and then checking them against your notes. Notice where you have left out detail, or there are gaps, and go back and review those areas; and
+Organising a discussion group with some friends, to consider a particular issue or area.
+There are more ideas on our page: Revision Skills.
+<br>
+<h3 style="color:gray">5. Vary your locations</h3>
+Changing the location in which you study—for example, your room, the library at school or college, a quiet café, or someone else’s house—is also good.
+Research has found that this can help to improve memory retention. It is not clear why, but the suggestion is that the brain makes connections between the background and what you are studying: more different connections makes things easier to remember.
+<br>
+<h3 style="color:violet">6. Take regular breaks</h3>
+You cannot work solidly for 8 hours. In fact, it is very hard to work in a concentrated way for more than about an hour.
+You may find that some days you can do more, but mostly, one to one and a half hours is likely to be your limit before you need a break.
+Take 10 minutes periodically to go and get a drink and walk around a bit.
+<br>
+<h3 style="color:maroon">7. Know your exam</h3>
+Make sure that you have looked at past papers.
+This will ensure that you are prepared for the type of exam you will be sitting, whether multiple choice, short answer or essay.
+Know what you are expected to do: for example, how many questions from each section will you have to answer? Of course, you still have to read the instructions on the paper itself, and make sure that they are the same, but this will help you to feel comfortable with what will be expected.
+Even more important, make sure that you have practised the right type of questions, and know what will be expected of a ‘good’ and ‘bad’ answer.
+<br>
+<h3 style="color:teal">8. Make sure you know the practical details about your exam</h3>
+For example:
+Where will it be held?
+What time does it start, and when do you need to get there?
+If you have to travel some distance, what time will you need to leave?
+What do you need to take with you?
+Also make sure that you know what to do if something goes wrong. You might, for example, be ill on the day, or get held up on the journey, and you need to know who to contact.
+Take a bit of time at least a week beforehand to make sure that you know the answers to all these questions.
+This will help you to stay reasonably relaxed, and ensure that you know what to do if something goes wrong, as well as minimising the chances of something going wrong.
+<br>
+<h3 style="color:tomato"></h3>
+We all have different ways of working, and that includes preparing for exams.
+As you get more experienced in taking exams, you will find the ways that work best for you, and learn how best to prepare. In the meantime, these tips should give you a good starting point for study.
+<br>
+Good luck!
+</b>
+</font></td></tr>
+</table>
+<br>
+<hr><p align=”center”><font face = "trebuchet ms" size ="4.5"color = "black">
+Home | Privacy Policy | Terms of Service | Feedback <br>
+2019 | STUDYTOPIA | All Rights Reserved
+<p align ="center"><font face="monotype corsiva" size="4">
+</font><br>
+<font face=”trebuchet ms” size=3><a href="CPT 1.htm"><b>Click to Go Back!!!</b></
+a></font>
+</body>
+</html>
+
+
+<!-FEEDBACK->
+
+<html>
+<head>
+<title></title>
+</head>
+<body link = “blue” vlink = “purple” alink = "blue" background="bg (2).jpg">
+<font face="Comic sans ms" size =8 color="#663300">
+<u>Please Give us your valuable feedback about what you feel about our
+website!!!<br><hr>
+<font face=”comic sans ms” size=5><center>
+<a href = “Main Page.htm”>Click here to go back to the main page!!!</a>
+
+</center></font>
+<hr>
+<table height=150 width=100%>
+<td width= 60%>
+<font face=”Comic Sans MS” size=4 color=”yellow”>
+<ul type=”disc”>
+<form>
+First Name: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text"
+name="First Name"><br>
+Last Name: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text"
+name="Last Name"><br>
+E-Mail Address: <input type=”text” name=”E-Mail Address”><br><br><br>
+<font face=”Comic Sans MS” size=4><u>Gender:</u></font><br><br><input type="radio"
+name="sex"value="male">Male<br>
+<input type="radio" name="sex" value="female">Female<br>
+</form>
+<br><br>
+<h2>Comments:</h2><br>
+<textarea rows="5" cols="50"></textarea>
+<center><br><br>
+<form name="input" action="html_form_action.asp" method="get">
+&nbsp&nbsp&nbsp&nbsp&nbsp<input type="submit" value="Submit">
+</form></center></font>
+</ul>
+</td>
+<td width=50%>
+<img src = "feedback2.jpg">
+</td>
+</table>
+<hr><hr>
+<p align=”center”><font face = “trebuchet ms” size = 2 color = “yellow”>
+Home | Privacy Policy | Terms of Service | Feedback <br>
+2010 &STUDYTOPIA | All Rights Reserved<br>
+</font>
+</body>
+</html>
+ABOUT US
+<html>
+<head>
+<title></title>
+</head>
+<body bgcolor="white">
+
+<center><table background="WHITE" height=100 width=100% border=1 cellpadding=10>
+<tr><td align=”center” width=150><img src="study topia home page (1).jpg" height=150 width=150></
+td><td align=”right” valign=”middle”><font face=”trebuchet ms” color=”maroon”
+size=7><b><i>ABOUT US</i></b></font></td></tr></table></center><br>
+<table width = 100% height=20 cellpadding = 10><tr><td width = 100% bgcolor =
+"maroon"><font face = "trebuchet ms" color = "white" size = 6 valign = "middle" ><p
+align = “center”> KNOW ABOUT US!!! </font></td>
+<table width = 100% height=5 cellpadding = 10><tr><td width = 100% bgcolor =
+“#F2AC28”><font face = “trebuchet ms” color = “Maroon” size = 4 valign = “middle”
+><b>
+
+
+</td></tr></table><table bgcolor="black">
+<tr border=2 bordercolor="WHITE"><td height=50 valign=”top”><br><center>
+<img src = "Riya.jpg" height = 200 width = 175>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+;&nbsp;
+<img src= "a&r.jpg" height=300 width=300>&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="Aimy.jpg" height=200 width=180></td></center></tr>
+<br><hr>
+<br><tr><td><hr>
+<font face = "impact" color = "WHITE" size = 8>ABOUT THE CREATERS: <BR><BR>
+</font>
+<font face = "calbri" color = "WHITE" size = 5>
+<h3 style="color:ORANGE">AIMY ACKSA SHAJI</h3> Hey! I am the co-creater of 'studytopia' and am here to help you boost your efficiency in studies. I hope to share the best of knowledge that we have got!
+<BR>
+<h3 style="color:ORANGE">RIYA RAJESH KUMAR</h3> Hello!! I am the co-creater of 'studytopia' and I believe in 'smart work' instead of mere hard work. Our website aims to offer a great deal of study related sources. Hope you have a great time surfing 'The Studytopia!'
+<br><BR>
+<font face = "impact" color = "WHITE" size = 5>FAQ's <BR><BR>
+</font>
+<font face = "calbri" color = "WHITE" size = 5>
+<h3 style="color:tomato">1.What is your occupation?</h3>
+-We are students at The central school, Dubai, studying in grade 10th <BR><BR>
+<h3 style="color:tomato">2. How old are you?</h3>
+-Aimy; 15 years; my birthday is on the 26th of January<BR>
+-Riya: 16 years, my birthday is on the 8th of July.<BR><BR>
+<h3 style="color:tomato">3.How did you create 'studytopia'?</h3>
+-Using NOTEPAD (HTML).<BR><BR>
+<h3 style="color:tomato">4.Why did you create 'studytopia'?</h3>
+-As a school project and out of interest and to apply our knowledge of HTML in real life and to help other students.
+<BR><BR>
+<h3 style="color:tomato">5.Any inappropriate content:</h3>
+-No, there is no inappropriate content in the website. It is a very safe website.<BR><BR>
+<BR>
+
+<h3 style="color:lime">CONTACT DETAILS:
+Phone number: 0509977885<BR>
+The Central School, Dubai<BR>
+Grade 10th B
+</h3>
+
+</font>
+</td></tr>
+</table>
+<br><hr><hr>
+</body>
+</html>
